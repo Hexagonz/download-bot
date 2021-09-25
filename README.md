@@ -38,5 +38,4 @@
 ```
 
 ## ```Thanks```
-* **Allah SWT**# download-bot
-# download-bot
+* **Allah SWT**
